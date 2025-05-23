@@ -101,6 +101,7 @@
             "name": "file",
             "type": "resource",
             "valid": ["image", "video", "child"],
+            "features": ["hevc", "image4k"],
             "default": "empty.png"
         }, {
             "title": "Play time",
